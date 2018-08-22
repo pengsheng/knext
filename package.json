@@ -1,0 +1,27 @@
+{
+  "name": "knext",
+  "version": "1.0.0",
+  "description": "knext",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pengsheng/knext.git"
+  },
+  "author": "robin peng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pengsheng/knext/issues"
+  },
+  "homepage": "https://github.com/pengsheng/knext#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "globby": "^8.0.1",
+    "koa": "^2.5.2",
+    "koa-router": "^7.4.0",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.38.0"
+  }
+}
